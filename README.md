@@ -17,6 +17,8 @@
   </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats-phi-one-19.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - I’m grateful to live in an open-source world. 
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 
@@ -33,5 +35,4 @@
 </p>
 
 > "The mission of learning is to gain an understanding of various designs."
->
 > "Attempt to achieve any sustainable behavior through automated means."
