@@ -11,12 +11,14 @@
   </p>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-phi-one-19.vercel.app/api?username=V-IOLE-T&include_all_commits=true&hide_rank=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-phi-one-19.vercel.app/api/top-langs?username=V-IOLE-T&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api?username=V-IOLE-T&include_all_commits=true&rank_icon=github&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api/top-langs?username=V-IOLE-T&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 - I’m grateful to live in an open-source world. 
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
