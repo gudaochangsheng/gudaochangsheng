@@ -44,24 +44,7 @@
 
 I am a Ph.D. candidate in **PCA Lab, VCIP, College of Computer Science, Nankai University**.
 
-My recent research focuses on:
-
-- controllable video generation
-- diffusion models
-- vision-language models
-- knowledge distillation
-- gait recognition
-
 I’m grateful to live in an open-source world.
-
----
-
-### 🔥 Selected News
-
-- **2026.02**: One paper accepted by **CVPR 2026**.
-- **2025.02**: Two papers accepted by **CVPR 2025**.
-- **2023.07**: One paper accepted by **ICCV 2023**.
-- **2023.07**: One paper accepted by **ICIP 2023**.
 
 ---
 
