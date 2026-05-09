@@ -12,7 +12,7 @@
   <code>📍 Hebei, China</code>
   <code>🎓 Ph.D. Candidate @ Nankai University</code>
 </p>
-
+![snake](https://raw.githubusercontent.com/gudaochangsheng/gudaochangsheng/output/github-contribution-grid-snake.svg)
 <p>
   <img src="https://komarev.com/ghpvc/?username=gudaochangsheng&label=Profile%20Views&color=C58940&style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Diffusion%20Models-C58940?style=flat-square" />
@@ -124,12 +124,6 @@ Lei Wang, Bo Liu, Fangfang Liang, Bincheng Wang
   <img src="https://img.shields.io/badge/One--step-Diffusion-C58940?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model-Distillation-C58940?style=for-the-badge" />
 </p>
-
----
-
-### 🏢 Experience
-
-- **2025.08 - Present**: Research Intern, Visual Technology Department, Baidu, Beijing, China.
 
 ---
 
