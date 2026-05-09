@@ -33,5 +33,4 @@
   </a>
 </p>
 
-> "The mission of learning is to gain an understanding of various designs."
-> "Attempt to achieve any sustainable behavior through automated means."
+> "Few recognize a tree destined for the clouds in its youth; only when it towers above the sky do they praise its height."
