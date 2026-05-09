@@ -12,7 +12,7 @@
   <code>📍 Hebei, China</code>
   <code>🎓 Ph.D. Candidate @ Nankai University</code>
 </p>
-![snake](https://raw.githubusercontent.com/gudaochangsheng/gudaochangsheng/output/github-contribution-grid-snake.svg)
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=gudaochangsheng&label=Profile%20Views&color=C58940&style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Diffusion%20Models-C58940?style=flat-square" />
@@ -50,57 +50,19 @@ I’m grateful to live in an open-source world.
 
 ### 📌 Selected Publications
 
-<p>
-  <a href="https://arxiv.org/abs/2603.08258">
-    <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" />
-  </a>
-  <a href="https://gudaochangsheng.github.io/WaDi-Page/">
-    <img src="https://img.shields.io/badge/Project-WaDi-C58940?style=flat-square" />
-  </a>
-  <a href="https://github.com/gudaochangsheng/WaDi">
-    <img src="https://img.shields.io/badge/Code-WaDi-black?style=flat-square&logo=github" />
-  </a>
-</p>
+- <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" /> **WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**  
+  [Paper](https://arxiv.org/abs/2603.08258) · [Project](https://gudaochangsheng.github.io/WaDi-Page/) · [Code](https://github.com/gudaochangsheng/WaDi)
 
-**WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**  
-Lei Wang, Yang Cheng, Senmao Li, Ge Wu, Yaxing Wang, Jian Yang  
-**CVPR 2026**
+- <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" /> **Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**  
+  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Not_All_Parameters_Matter_Masking_Diffusion_Models_for_Enhancing_Generation_Ability_CVPR_2025_paper.html)
 
-<p>
-  <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Not_All_Parameters_Matter_Masking_Diffusion_Models_for_Enhancing_Generation_Ability_CVPR_2025_paper.html">
-    <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Project-MaskUNet-C58940?style=flat-square" />
-  <img src="https://img.shields.io/badge/Topic-Diffusion%20Model-C58940?style=flat-square" />
-</p>
+- <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" /> **One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Model**  
+  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Model_CVPR_2025_paper.html)
 
-**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**  
-Lei Wang, Senmao Li, Fei Yang, Jianye Wang, Ziheng Zhang, Yuhan Liu, Yaxing Wang, Jian Yang  
-**CVPR 2025**
+- <img src="https://img.shields.io/badge/ICCV-2023-blueviolet?style=flat-square" /> **Hierarchical Spatio-Temporal Representation Learning for Gait Recognition**  
+  [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.html)
 
-<p>
-  <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Model_CVPR_2025_paper.html">
-    <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Topic-One--step%20Generation-C58940?style=flat-square" />
-</p>
-
-**One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Model**  
-Senmao Li, Lei Wang, Kai Wang, Tao Liu, Jiehang Xie, Joost van de Weijer, Fahad Shahbaz Khan, Shiqi Yang, Yaxing Wang, Jian Yang  
-**CVPR 2025**
-
-<p>
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.html">
-    <img src="https://img.shields.io/badge/ICCV-2023-blueviolet?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Topic-Gait%20Recognition-C58940?style=flat-square" />
-</p>
-
-**Hierarchical Spatio-Temporal Representation Learning for Gait Recognition**  
-Lei Wang, Bo Liu, Fangfang Liang, Bincheng Wang  
-**ICCV 2023**
-
----
+  ---
 
 ### 🧰 Tech Stack
 
