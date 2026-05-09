@@ -21,18 +21,16 @@
 </div>
 
 - I’m grateful to live in an open-source world. 
-- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 
 ### Links
 
 <p>
-  <a href="https://418122.xyz/en">
-    <img src="https://img.shields.io/badge/BLOG-418122.xyz-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+  <a href="https://gudaochangsheng.github.io/">
+  <img src="https://img.shields.io/badge/Homepage-gudaochangsheng.github.io-C58940?style=flat-square&logo=githubpages&logoColor=white" alt="personal homepage"/>
   </a>
-  <a href="z411622h@163.com">
-    <img src="https://img.shields.io/badge/Gmail-lunatic.halle%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  <a href="scitop998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-scitop1998%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-    <img src="https://img.shields.io/badge/WeChat-18039532972-07C160?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
 </p>
 
 > "The mission of learning is to gain an understanding of various designs."
