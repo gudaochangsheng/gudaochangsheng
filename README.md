@@ -121,6 +121,15 @@ I’m grateful to live in an open-source world.
   </a>
 </p>
 
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gudaochangsheng/gudaochangsheng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gudaochangsheng/gudaochangsheng/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gudaochangsheng/gudaochangsheng/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
+
 
 > "Few recognize a tree destined for the clouds in its youth; only when it towers above the sky do they praise its height."
