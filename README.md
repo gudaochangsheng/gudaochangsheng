@@ -43,7 +43,11 @@
 
 <div align="center">
   <a href="https://github.com/gudaochangsheng">
-    <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api?username=gudaochangsheng&include_all_commits=true&rank_icon=github&show_icons=true" />
+    <!-- <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api?username=gudaochangsheng&include_all_commits=true&show_icons=true&rank_icon=default" /> -->
+   <img
+    height="200"
+    src="https://github-readme-stats-fork-alpha.vercel.app/api?username=gudaochangsheng&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed"
+  />
   </a>
   <a href="https://github.com/gudaochangsheng">
     <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api/top-langs?username=gudaochangsheng&layout=compact&langs_count=8&card_width=320" />
