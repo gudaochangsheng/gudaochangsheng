@@ -1,5 +1,19 @@
 <div align="center">
 
+<pre>
+ █████╗ ██╗ ██████╗  ██████╗
+██╔══██╗██║██╔════╝ ██╔════╝
+███████║██║██║  ███╗██║     
+██╔══██║██║██║   ██║██║     
+██║  ██║██║╚██████╔╝╚██████╗
+╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝
+</pre>
+
+</div>
+
+
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&width=1000&lines=Hi,+I%27m+gudaochangsheng,+a+PhD+student+at+Nankai+University.;I+focus+on+Image%2FVideo+Generation,+Diffusion+Models,+and+Knowledge+Distillation." alt="Typing SVG"/>
 
 <p>
