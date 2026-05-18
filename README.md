@@ -70,17 +70,20 @@ I’m grateful to live in an open-source world.
 
 ### 📌 Selected Publications
 
-- <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" /> **WaDi: Weight Direction-aware Distillation for One-step Image Synthesis**  
-  [Paper](https://arxiv.org/abs/2603.08258) · [Project](https://gudaochangsheng.github.io/WaDi-Page/) · [Code](https://github.com/gudaochangsheng/WaDi)
-
-- <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" /> **Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**  
-  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Not_All_Parameters_Matter_Masking_Diffusion_Models_for_Enhancing_Generation_Ability_CVPR_2025_paper.html)
-
-- <img src="https://img.shields.io/badge/CVPR-2025-blue?style=flat-square" /> **One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Model**  
-  [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Model_CVPR_2025_paper.html)
-
-- <img src="https://img.shields.io/badge/ICCV-2023-blueviolet?style=flat-square" /> **Hierarchical Spatio-Temporal Representation Learning for Gait Recognition**  
-  [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.html)
+<p align="left">
+  <a href="https://arxiv.org/abs/2603.08258">
+    <img src="https://img.shields.io/badge/WaDi-CVPR%202026-0f172a?style=flat-square&labelColor=3b82f6" alt="WaDi">
+  </a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Not_All_Parameters_Matter_Masking_Diffusion_Models_for_Enhancing_Generation_Ability_CVPR_2025_paper.html">
+    <img src="https://img.shields.io/badge/MaskUnet-CVPR%202025-0f172a?style=flat-square&labelColor=3b82f6" alt="MaskUnet">
+  </a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10221893">
+    <img src="https://img.shields.io/badge/GaitMM-ICIP%202023-0f172a?style=flat-square&labelColor=8b5cf6" alt="GaitMM">
+  </a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.html">
+    <img src="https://img.shields.io/badge/HSTL-ICCV%202023-0f172a?style=flat-square&labelColor=8b5cf6" alt="HSTL">
+  </a>
+</p>
 
   ---
 
@@ -99,12 +102,12 @@ I’m grateful to live in an open-source world.
 
 ### 🧪 Research Keywords
 
-<p>
-  <img src="https://img.shields.io/badge/Text--to--Image-Generation-C58940?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Text--to--Video-Generation-C58940?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Image--to--Video-Generation-C58940?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/One--step-Diffusion-C58940?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model-Distillation-C58940?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/T2I-Generation-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/T2V-Generation-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/I2V-Generation-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/One--step-Diffusion-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model-Distillation-7c3aed?style=flat-square" />
 </p>
 
 ---
