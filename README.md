@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Research-Diffusion%20Models-C58940?style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Video%20Generation-C58940?style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Knowledge%20Distillation-C58940?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Vision--Language%20Models-C58940?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Image%20Generation-C58940?style=flat-square" />
 </p>
 
 </div>
