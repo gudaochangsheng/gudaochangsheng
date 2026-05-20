@@ -25,7 +25,7 @@
 
 <p>
   <code>🌱 Born 1998-11-03</code>
-  <code>📍 Hebei, China</code>
+  <code>📍 Tianjin, China</code>
   <code>🎓 Ph.D. Candidate @ Nankai University</code>
 </p>
 
