@@ -89,12 +89,19 @@ I’m grateful to live in an open-source world.
 
 ### 🧰 Tech Stack
 
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCCL-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Training-100%2B%20GPUs-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Diffusers-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/DiffSynth--Studio-2B6CB0?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenGait-00AEEF?style=flat-square" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
@@ -134,14 +141,14 @@ I’m grateful to live in an open-source world.
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="google scholar"/>
   </a>
   <a href="https://gudaochangsheng.blog.csdn.net/">
-    <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square" alt="csdn"/>
-  </a>
+  <img src="https://img.shields.io/badge/CSDN-Fans%207300+%20%7C%20Views%20110w+-FC5531?style=flat-square" alt="csdn"/>
+</a>
   <a href="https://www.zhihu.com/people/gudaochangsheng">
     <img src="https://img.shields.io/badge/Zhihu-Profile-0084FF?style=flat-square" alt="zhihu"/>
   </a>
-  <a href="mailto:scitop1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-scitop1998%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
-  </a>
+  <a href="https://www.zhihu.com/people/gudaochangsheng">
+  <img src="https://img.shields.io/badge/Zhihu-Followers%201000+-0084FF?style=flat-square" alt="zhihu"/>
+</a>
 </p>
 
 ### 🐍 Contribution Graph
