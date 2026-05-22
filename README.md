@@ -14,6 +14,10 @@
 </div>
 
 
+<p align="center">
+  <img src="https://kgnio-profile-card.vercel.app/api/card?user=gudaochangsheng&theme=cyber-city" />
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&width=1000&lines=Hi,+I%27m+gudaochangsheng,+a+PhD+student+at+Nankai+University.;I+focus+on+Image%2FVideo+Generation,+Diffusion+Models,+and+Knowledge+Distillation." alt="Typing SVG"/>
@@ -41,16 +45,20 @@
 
 ---
 
+
+
 <div align="center">
   <a href="https://github.com/gudaochangsheng">
-    <!-- <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api?username=gudaochangsheng&include_all_commits=true&show_icons=true&rank_icon=default" /> -->
-   <img
-    height="200"
-    src="https://github-readme-stats-fork-alpha.vercel.app/api?username=gudaochangsheng&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed"
-  />
+    <img
+      height="200"
+      src="https://github-readme-stats-fork-alpha.vercel.app/api?username=gudaochangsheng&custom_title=gudaochangsheng%27s%20GitHub%20Stats&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed"
+    />
   </a>
   <a href="https://github.com/gudaochangsheng">
-    <img height="200" src="https://github-readme-stats-phi-one-19.vercel.app/api/top-langs?username=gudaochangsheng&layout=compact&langs_count=8&card_width=320" />
+    <img
+      height="200"
+      src="https://github-readme-stats-phi-one-19.vercel.app/api/top-langs?username=gudaochangsheng&custom_title=Most%20Used%20Languages&layout=compact&langs_count=8&card_width=320"
+    />
   </a>
 </div>
 
