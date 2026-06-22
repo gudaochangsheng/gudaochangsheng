@@ -77,6 +77,9 @@ I’m grateful to live in an open-source world.
 ### 📌 Selected Publications
 
 <p align="left">
+ <a href="https://arxiv.org/abs/2603.25743">
+    <img src="https://img.shields.io/badge/RefAlign-ECCV%202026-0f172a?style=flat-square&labelColor=3b82f6" alt="RefAlign">
+  </a>
   <a href="https://arxiv.org/abs/2603.08258">
     <img src="https://img.shields.io/badge/WaDi-CVPR%202026-0f172a?style=flat-square&labelColor=3b82f6" alt="WaDi">
   </a>
