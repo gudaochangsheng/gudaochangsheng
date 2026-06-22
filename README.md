@@ -14,9 +14,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://kgnio-profile-card.vercel.app/api/card?user=gudaochangsheng&theme=cyber-city" />
-</p>
+
 
 <div align="center">
 
